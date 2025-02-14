@@ -15,7 +15,7 @@
 
 <br/>
 
-### Visitor's Count:
+<!-- ### Visitor's Count:
 
 <a align="center" href="https://profile-counter.glitch.me/{kedarlin}/count.svg">
   
@@ -23,6 +23,7 @@
 </a>
 
 <br/>
+-->
 
 ### About Me
 
